@@ -19,5 +19,5 @@ impact on student performance.
 Each instructor teaches only one subject. A teacher may teach the same subject in multiple branches. Each branch is assigned one teacher per subject. The project focuses heavily on: The examination system: performance, structure, and results. Subject coverage: The quality of the subjects distributed and taught across the branches.
 
 # Link drive for more details
-https://drive.google.com/drive/u/1/folders/1ZQ4LHYvgXQFxLkm6I45NTIEbGo06npEI
+https://drive.google.com/drive/folders/1r_cI7m3FG0RuyJxCE0jqSDllinhY3HBc?usp=drive_link
 # All steps are in ITI_System.pdf file, which contains all the steps that were followed to reach the final form of the dashboard.
